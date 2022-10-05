@@ -1,0 +1,1346 @@
+Program,Network,Rank,Rating,Year,Type,Spinoff
+Dharma & Greg,ABC,17,10.5,1999,Sitcom,No
+Roseanne,ABC,3,18.1,1990,Sitcom,No
+America's Funniest Home Videos,ABC,8,16.7,1990,Reality,No
+Monday Night Football,ABC,9,16.6,1990,Sports,No
+America's Funniest People,ABC,13,16.3,1990,Reality,Yes
+Full House,ABC,14,15.9,1990,Sitcom,No
+Family Matters,ABC,15,15.8,1990,Sitcom,Yes
+Coach,ABC,18,15.3,1990,Sitcom,No
+Who's the Boss?,ABC,19,15,1990,Sitcom,No
+"Doogie Howser, M.D.",ABC,24,14.7,1990,Sitcom,No
+Head of the Class,ABC,26,14.5,1990,Sitcom,No
+Growing Pains,ABC,27,14.3,1990,Sitcom,No
+Baby Talk,ABC,27,14.3,1990,Sitcom,No
+Davis Rules,ABC,27,14.3,1990,Sitcom,No
+The Wonder Years,ABC,30,14.2,1990,Sitcom,No
+Roseanne,ABC,2,19.9,1991,Sitcom,No
+Home Improvement,ABC,4,17.5,1991,Sitcom,No
+Full House,ABC,7,17,1991,Sitcom,No
+Coach,ABC,10,16.7,1991,Sitcom,No
+Room for Two,ABC,10,16.7,1991,Sitcom,No
+Monday Night Football,ABC,12,16.6,1991,Sports,No
+America's Funniest Home Videos,ABC,20,14.5,1991,Reality,No
+20/20,ABC,21,14.4,1991,News,No
+America's Funniest People,ABC,25,13.8,1991,Reality,Yes
+Roseanne,ABC,2,20.7,1992,Sitcom,No
+Home Improvement,ABC,3,19.4,1992,Sitcom,No
+Coach,ABC,6,17.5,1992,Sitcom,No
+Monday Night Football,ABC,7,16.7,1992,Sports,No
+Full House,ABC,10,15.8,1992,Sitcom,No
+20/20,ABC,12,15.1,1992,News,No
+Hanging' with Mr. Cooper,ABC,16,14.6,1992,Sitcom,No
+Primetime Live,ABC,22,14.1,1992,News,No
+ABC Sunday Night Movie,ABC,28,13.3,1992,Special,No
+Matlock,ABC,28,13.3,1992,Drama,No
+Home Improvement,ABC,2,20.4,1993,Sitcom,No
+Roseanne,ABC,4,19.1,1993,Sitcom,No
+Grace Under Fire,ABC,5,17.7,1993,Sitcom,No
+Coach,ABC,6,17.4,1993,Sitcom,No
+Monday Night Football,ABC,8,16.5,1993,Sports,No
+Thunder Alley,ABC,12,15.9,1993,Sitcom,No
+20/20,ABC,15,14.3,1993,News,No
+Full House,ABC,16,14.2,1993,Sitcom,No
+Primetime Live,ABC,17,14,1993,News,No
+NYPD Blue,ABC,18,13.9,1993,Drama,No
+Turning Point,ABC,20,13.8,1993,News,No
+Phenom,ABC,27,13.2,1993,Drama,No
+ABC Sunday Night Movie,ABC,30,12.6,1993,Special,No
+Family Matters,ABC,30,12.6,1993,Sitcom,Yes
+Home Improvement,ABC,3,19.5,1994,Sitcom,No
+Grace Under Fire,ABC,4,18.6,1994,Sitcom,No
+Monday Night Football,ABC,5,17.7,1994,Sports,No
+NYPD Blue,ABC,7,16.5,1994,Drama,No
+Roseanne,ABC,10,15.5,1994,Sitcom,No
+Ellen,ABC,13,14.8,1994,Sitcom,No
+20/20,ABC,17,14,1994,News,No
+Me and the Boys,ABC,20,13.1,1994,Sitcom,No
+ABC Sunday Movie,ABC,23,12.7,1994,Special,No
+Full House,ABC,25,12.4,1994,Sitcom,No
+ABC Monday Night Movie,ABC,29,11.7,1994,Special,No
+Primetime Live,ABC,29,11.7,1994,News,No
+Monday Night Football,ABC,5,17.1,1995,Sports,No
+Home Improvement,ABC,7,16.1,1995,Sitcom,No
+NYPD Blue,ABC,10,14.1,1995,Drama,No
+20/20,ABC,11,13.6,1995,News,No
+Grace Under Fire,ABC,13,13.2,1995,Sitcom,No
+Coach,ABC,14,12.9,1995,Sitcom,No
+Roseanne,ABC,16,12.5,1995,Sitcom,No
+Primetime Live,ABC,18,12.3,1995,News,No
+The Naked Truth,ABC,24,11.4,1995,Sitcom,No
+The Dana Carvey Show,ABC,30,11.2,1995,Sitcom,No
+Monday Night Football,ABC,7,16,1996,Sports,No
+Home Improvement,ABC,9,14,1996,Sitcom,No
+20/20,ABC,12,12.8,1996,News,No
+NYPD Blue,ABC,13,12.5,1996,Drama,No
+Primetime Live,ABC,15,11.9,1996,News,No
+Spin City,ABC,17,11.7,1996,Sitcom,No
+The Drew Carey Show,ABC,18,11.5,1996,Sitcom,No
+Ellen,ABC,29,10.6,1996,Sitcom,No
+Monday Night Football,ABC,5,15,1997,Sports,No
+Home Improvement,ABC,10,12,1997,Sitcom,No
+The Drew Carey Show,ABC,15,11.1,1997,Sitcom,No
+20/20 - Friday,ABC,16,10.9,1997,News,No
+NYPD Blue,ABC,17,10.8,1997,Drama,No
+Primetime Live,ABC,17,10.8,1997,News,No
+20/20 - Monday,ABC,21,10,1997,News,Rename
+Dharma & Greg,ABC,25,9.5,1997,Sitcom,No
+Hiller and Diller,ABC,28,9.3,1997,Sitcom,No
+Monday Night Football,ABC,4,14.9,1998,Sports,No
+Home Improvement,ABC,10,11,1998,Sitcom,No
+NYPD Blue,ABC,12,10.5,1998,Drama,No
+The Drew Carey Show,ABC,14,9.9,1998,Sitcom,No
+20/20 - Wednesday,ABC,16,9.8,1998,News,Rename
+Dharma & Greg,ABC,24,9.3,1998,Sitcom,No
+Spin City,ABC,25,9.2,1998,Sitcom,No
+Who Wants to Be a Millionaire - Tuesday,ABC,1,18.6,1999,Game,No
+Who Wants to Be a Millionaire - Thursday,ABC,2,17.5,1999,Game,No
+Who Wants to Be a Millionaire - Sunday,ABC,3,17.1,1999,Game,No
+Monday Night Football,ABC,7,13.5,1999,Sports,No
+The Practice,ABC,9,11.8,1999,Drama,No
+NYPD Blue,ABC,15,10.7,1999,Drama,No
+The Drew Carey Show,ABC,21,9.5,1999,Sitcom,No
+ABC Monday Movie,ABC,24,9.1,1999,Special,No
+Who Wants to Be a Millionaire - Wednesday,ABC,3,13.7,2000,Game,Yes
+Who Wants to Be a Millionaire - Tuesday,ABC,4,13,2000,Game,No
+Monday Night Football,ABC,5,12.6,2000,Sports,No
+Who Wants to Be a Millionaire - Sunday,ABC,8,12.4,2000,Game,No
+The Practice,ABC,10,11.7,2000,Drama,No
+Who Wants to Be a Millionaire - Thursday,ABC,11,11.6,2000,Game,No
+Who Wants to Be a Millionaire - Friday,ABC,19,10.5,2000,Game,Yes
+NYPD Blue,ABC,22,9.7,2000,Drama,No
+Monday Night Football,ABC,7,11.5,2001,Sports,No
+The Practice,ABC,23,8.3,2001,Drama,No
+NYPD Blue,ABC,23,8.3,2001,Drama,No
+Monday Night Football,ABC,10,11.4,2002,Sports,No
+The Bachelor/The Bachelorette,ABC,16,9.9,2002,Reality,No
+NYPD Blue,ABC,29,7.8,2002,Drama,No
+Monday Night Football,ABC,9,11.2,2003,Sports,No
+The Bachelor/The Bachelorette,ABC,21,8.3,2003,Reality,No
+Desperate Housewives,ABC,4,14.5,2004,Drama,No
+Grey's Anatomy,ABC,8,11.6,2004,Drama,No
+Monday Night Football,ABC,10,10.8,2004,Sports,No
+Lost,ABC,13,9.8,2004,Drama,No
+Extreme Makeover: Home Edition,ABC,18,9.1,2004,Reality,Yes
+Boston Legal,ABC,24,8.1,2004,Drama,Yes
+Desperate Housewives,ABC,4,13.8,2005,Drama,No
+Grey's Anatomy,ABC,5,12.5,2005,Drama,No
+Dancing with the Stars,ABC,7,12,2005,Reality,No
+Monday Night Football,ABC,9,10.6,2005,Sports,No
+Dancing with the Stars - Results,ABC,15,9.6,2005,Reality,No
+Lost,ABC,18,9.2,2005,Drama,No
+Extreme Makeover: Home Edition,ABC,23,8.6,2005,Reality,Yes
+Commander in Chief,ABC,24,8.4,2005,Drama,No
+Grey's Anatomy,ABC,7,12.1,2006,Drama,No
+Desperate Housewives,ABC,9,10.8,2006,Drama,No
+Lost,ABC,22,8.3,2006,Drama,No
+Extreme Makeover: Home Edition,ABC,26,7.7,2006,Reality,Yes
+Ugly Betty,ABC,27,7.4,2006,Drama,No
+ER,ABC,27,7.4,2006,Drama,No
+24,ABC,27,7.4,2006,Drama,No
+Brothers & Sisters,ABC,30,7.3,2006,Drama,No
+Desperate Housewives,ABC,6,11.6,2007,Drama,No
+Grey's Anatomy,ABC,9,10.4,2007,Drama,No
+Samantha Who?,ABC,19,8,2007,Sitcom,No
+Lost,ABC,20,7.9,2007,Drama,No
+Extreme Makeover: Home Edition,ABC,21,7.8,2007,Reality,Yes
+Brothers & Sisters,ABC,22,7.6,2007,Drama,No
+CSI: NY,ABC,22,7.6,2007,Drama,Yes
+Heroes,ABC,22,7.6,2007,Drama,No
+Private Practice,ABC,26,7.3,2007,Drama,Yes
+Desperate Housewives,ABC,9,9.9,2008,Drama,No
+Grey's Anatomy,ABC,10,9.6,2008,Drama,No
+The Bachelor,ABC,20,7.5,2008,Reality,No
+Brothers & Sisters,ABC,23,7.2,2008,Drama,No
+Castle,ABC,25,6.9,2008,Drama,No
+Lost,ABC,29,6.6,2008,Drama,No
+Dancing with the Stars,ABC,3,12.6,2009,Reality,No
+Dancing with the Stars - Results,ABC,7,9.9,2009,Reality,No
+Grey's Anatomy,ABC,11,9,2009,Drama,No
+Desperate Housewives,ABC,13,8.8,2009,Drama,No
+The Bachelor,ABC,21,7.8,2009,Reality,No
+Brothers & Sisters,ABC,23,7,2009,Drama,No
+Castle,ABC,24,6.9,2009,Drama,No
+Lost,ABC,24,6.9,2009,Drama,No
+Private Practice,ABC,29,6.3,2009,Drama,Yes
+Dancing with the Stars,ABC,2,13.8,2010,Reality,No
+Dancing with the Stars - Results,ABC,5,11.8,2010,Reality,No
+Body of Proof,ABC,9,9,2010,Drama,No
+Desperate Housewives,ABC,17,7.5,2010,Drama,No
+Grey's Anatomy,ABC,17,7.5,2010,Drama,No
+Castle,ABC,22,7.3,2010,Drama,No
+Modern Family,ABC,25,7.1,2010,Sitcom,No
+The Bachelor,ABC,27,7,2010,Reality,No
+Dancing with the Stars,ABC,3,12,2011,Reality,No
+Dancing with the Stars - Results,ABC,6,10.6,2011,Reality,No
+Modern Family,ABC,15,8.1,2011,Sitcom,No
+Castle,ABC,16,8,2011,Drama,No
+Grey's Anatomy,ABC,21,7.6,2011,Drama,No
+Desperate Housewives,ABC,28,7,2011,Drama,No
+Once Upon a Time,ABC,28,7,2011,Drama,No
+Dancing with the Stars,ABC,6,9.9,2012,Reality,No
+Dancing with the Stars - Results,ABC,7,9.2,2012,Reality,No
+Castle,ABC,15,8.1,2012,Drama,No
+Grey's Anatomy,ABC,18,7.7,2012,Drama,No
+Modern Family,ABC,18,7.7,2012,Sitcom,No
+Body of Proof,ABC,23,7.3,2012,Drama,No
+Dancing with the Stars,ABC,5,10,2013,Reality,No
+Grey's Anatomy,ABC,11,8.5,2013,Drama,No
+Castle,ABC,12,8.3,2013,Drama,No
+Scandal,ABC,13,8.2,2013,Drama,No
+Resurrection,ABC,15,8.1,2013,Drama,No
+Modern Family,ABC,18,7.6,2013,Sitcom,No
+Dancing with the Stars,ABC,5,10,2015,Reality,No
+Grey's Anatomy,ABC,11,8.5,2015,Drama,No
+Castle,ABC,12,8.3,2015,Drama,No
+Scandal,ABC,13,8.2,2015,Drama,No
+Resurrection,ABC,15,8.1,2015,Drama,No
+Modern Family,ABC,18,7.6,2015,Sitcom,No
+Roseanne,ABC,4,10.2,2017,Sitcom,No
+The Good Doctor,ABC,7,9.3,2017,Drama,No
+Grey's Anatomy,ABC,12,7.1,2017,Drama,No
+Dancing with the Stars,ABC,15,6.9,2017,Reality,No
+Dancing with the Stars: Athletes,ABC,25,6,2017,Reality,Yes
+American Idol - Monday,ABC,30,5.6,2017,Variety,No
+The Good Doctor,ABC,9,7.4,2018,Drama,No
+Grey's Anatomy,ABC,20,6.5,2018,Drama,No
+The Conners,ABC,27,5.8,2018,Sitcom,Yes
+Dancing with the Stars,ABC,29,5.5,2018,Reality,No
+Dancing with the Stars,ABC,7,9.7,2014,Reality,No
+Scandal,ABC,8,9,2014,Drama,No
+Grey's Anatomy,ABC,17,7.8,2014,Drama,No
+How to Get Away with Murder,ABC,20,7.7,2014,Drama,No
+Modern Family,ABC,23,7.5,2014,Sitcom,No
+Castle,ABC,28,7.2,2014,Drama,No
+S.W.A.T.,ABC,16,22.6,1974,Drama,No
+The Rookies,ABC,18,22,1974,Drama,No
+The Streets of San Francisco,ABC,22,21.3,1974,Drama,No
+"Rich Man, Poor Man",ABC,2,28,1975,Special,No
+Laverne & Shirley,ABC,3,27.5,1975,Sitcom,No
+The Bionic Woman,ABC,5,24.9,1975,Drama,No
+The Six Million Dollar Man,ABC,9,24.3,1975,Drama,No
+ABC Monday Night Movie,ABC,10,24.2,1975,Special,No
+Happy Days,ABC,11,23.9,1975,Sitcom,No
+ABC Sunday Night Movie,ABC,13,23,1975,Special,No
+Starsky & Hutch,ABC,16,22.5,1975,Sitcom,No
+Good Heavens,ABC,16,22.5,1975,Special,No
+"Welcome Back, Kotter",ABC,18,22.1,1975,Sitcom,No
+Barretta,ABC,22,21.3,1975,Drama,No
+Donny & Marie,ABC,26,20.7,1975,Variety,No
+The Streets of San Francisco,ABC,26,20.7,1975,Drama,No
+Happy Days,ABC,1,31.5,1976,Sitcom,No
+Laverne & Shirley,ABC,2,30.9,1976,Sitcom,No
+ABC Monday Night Movie,ABC,3,26,1976,Special,No
+Charlie's Angels,ABC,5,25.8,1976,Drama,No
+The Six Million Dollar Man,ABC,7,24.2,1976,Drama,No
+ABC Sunday Night Movie,ABC,8,23.4,1976,Special,No
+Barretta,ABC,8,23.4,1976,Drama,No
+Three's Company,ABC,11,23.1,1976,Sitcom,No
+"Welcome Back, Kotter",ABC,13,22.7,1976,Sitcom,No
+The Bionic Woman,ABC,14,22.4,1976,Drama,No
+Barney Miller,ABC,17,22.2,1976,Sitcom,No
+"Rich Man, Poor Man Book II",ABC,21,21.6,1976,Special,Yes
+Monday Night Football,ABC,22,21.2,1976,Sports,No
+Eight Is Enough,ABC,23,21.1,1976,Sitcom,No
+What's Happening!!,ABC,25,20.9,1976,Sitcom,No
+ABC Friday Night Movie,ABC,28,20.2,1976,Special,No
+The Tony Randall Show,ABC,29,20.1,1976,Sitcom,No
+Laverne & Shirley,ABC,1,31.6,1977,Sitcom,No
+Happy Days,ABC,2,31.4,1977,Sitcom,No
+Three's Company,ABC,3,28.3,1977,Sitcom,No
+Charlie's Angels,ABC,4,24.4,1977,Drama,No
+How the West Was Won,ABC,11,22.5,1977,Drama,No
+Eight Is Enough,ABC,12,22.2,1977,Sitcom,No
+Soap,ABC,13,22,1977,Sitcom,No
+The Love Boat,ABC,14,21.9,1977,Drama,No
+Monday Night Football,ABC,16,21.5,1977,Sports,No
+Fantasy Island,ABC,17,21.4,1977,Drama,No
+Barney Miller,ABC,17,21.4,1977,Sitcom,No
+ABC Sunday Night Movie,ABC,20,20.8,1977,Special,No
+ABC Monday Night Movie,ABC,24,20.3,1977,Special,No
+"Welcome Back, Kotter",ABC,26,19.9,1977,Sitcom,No
+Laverne & Shirley,ABC,1,30.5,1978,Sitcom,No
+Three's Company,ABC,2,30.3,1978,Sitcom,No
+Mork & Mindy,ABC,3,28.6,1978,Sitcom,Yes
+Happy Days,ABC,3,28.6,1978,Sitcom,No
+Angie,ABC,5,26.7,1978,Sitcom,No
+The Ropers,ABC,8,25.2,1978,Sitcom,Yes
+Taxi,ABC,9,24.9,1978,Sitcom,No
+Eight Is Enough,ABC,11,24.8,1978,Sitcom,No
+Charlie's Angels,ABC,12,24.4,1978,Drama,No
+ABC Sunday Night Movie,ABC,15,22.6,1978,Special,No
+Barney Miller,ABC,15,22.6,1978,Sitcom,No
+The Love Boat,ABC,17,22.1,1978,Drama,No
+Soap,ABC,19,21.3,1978,Sitcom,No
+Fantasy Island,ABC,22,20.8,1978,Drama,No
+Vega$,ABC,23,20.6,1978,Drama,No
+Monday Night Football,ABC,28,19.8,1978,Sports,No
+What's Happening!!,ABC,28,19.8,1978,Sitcom,No
+Three's Company,ABC,2,26.3,1979,Sitcom,No
+That's Incredible!,ABC,3,25.8,1979,Reality,No
+Eight Is Enough,ABC,12,22.8,1979,Sitcom,No
+Taxi,ABC,13,22.4,1979,Sitcom,No
+Happy Days,ABC,17,21.7,1979,Sitcom,No
+Charlie's Angels,ABC,20,20.9,1979,Drama,No
+Barney Miller,ABC,20,20.9,1979,Sitcom,No
+Benson,ABC,23,20.6,1979,Sitcom,Yes
+The Love Boat,ABC,23,20.6,1979,Drama,No
+Soap,ABC,25,20.5,1979,Sitcom,No
+Mork & Mindy,ABC,27,20.2,1979,Sitcom,Yes
+Fantasy Island,ABC,28,20.1,1979,Drama,No
+Ten-speed and Brown Shoe,ABC,29,20,1979,Sitcom,No
+ABC Sunday Night Movie,ABC,29,20,1979,Special,No
+Vega$,ABC,29,20,1979,Drama,No
+The Love Boat,ABC,5,24.3,1980,Drama,No
+Three's Company,ABC,8,22.4,1980,Sitcom,No
+Happy Days,ABC,15,20.8,1980,Sitcom,No
+Too Close for Comfort,ABC,15,20.8,1980,Sitcom,No
+Fantasy Island,ABC,17,20.7,1980,Drama,No
+Monday Night Football,ABC,20,20.6,1980,Sports,No
+Laverne & Shirley,ABC,20,20.6,1980,Sitcom,No
+That's Incredible!,ABC,22,20.5,1980,Reality,No
+Hart to Hart,ABC,23,19.9,1980,Drama,No
+ABC Sunday Night Movie,ABC,24,19.4,1980,Special,No
+Three's Company,ABC,4,23.3,1981,Sitcom,No
+ABC Monday Night Movie,ABC,8,22.5,1981,Special,No
+Monday Night Football,ABC,11,21.8,1981,Sports,No
+The Love Boat,ABC,14,21.2,1981,Drama,No
+Hart to Hart,ABC,15,21.1,1981,Drama,No
+"Trapper John, M.D.",ABC,15,21.1,1981,Drama,No
+Happy Days,ABC,18,20.6,1981,Sitcom,No
+Dynasty,ABC,19,20.2,1981,Drama,No
+Laverne & Shirley,ABC,20,19.9,1981,Sitcom,No
+ABC Sunday Night Movie,ABC,22,19.5,1981,Special,No
+The Fall Guy,ABC,26,19,1981,Drama,No
+That's Incredible!,ABC,28,18.4,1981,Reality,No
+T.J. Hooker,ABC,28,18.4,1981,Drama,No
+Fantasy Island,ABC,30,18.3,1981,Drama,No
+Dynasty,ABC,5,22.4,1982,Drama,No
+Three's Company,ABC,6,21.2,1982,Sitcom,No
+The Love Boat,ABC,9,20.3,1982,Drama,No
+Monday Night Football,ABC,10,20.1,1982,Sports,No
+The Fall Guy,ABC,14,19.4,1982,Drama,No
+9 to 5,ABC,15,19.3,1982,Sitcom,No
+Hart to Hart,ABC,17,18.9,1982,Drama,No
+That's Incredible!,ABC,22,18.3,1982,Reality,No
+ABC Monday Night Movie,ABC,24,18,1982,Special,No
+Laverne & Shirley,ABC,25,17.8,1982,Sitcom,No
+ABC Sunday Night Movie,ABC,26,17.6,1982,Special,No
+Happy Days,ABC,28,17.4,1982,Sitcom,No
+Dynasty,ABC,3,24.1,1983,Drama,No
+Hotel,ABC,9,21.1,1983,Drama,No
+ABC Sunday Night Movie,ABC,12,20.4,1983,Special,No
+ABC Monday Night Movie,ABC,12,20.4,1983,Special,No
+The Fall Guy,ABC,16,19.9,1983,Drama,No
+The Love Boat,ABC,17,19,1983,Drama,No
+Monday Night Football,ABC,21,18.1,1983,Sports,No
+Webster,ABC,25,17.2,1983,Sitcom,No
+Hardcastle and McCormick,ABC,25,17.2,1983,Drama,No
+Dynasty,ABC,1,25,1984,Drama,No
+Hotel,ABC,12,19.7,1984,Drama,No
+ABC Sunday Night Movie,ABC,21,17.5,1984,Special,No
+The Fall Guy,ABC,22,17.1,1984,Drama,No
+Dynasty,ABC,7,21.8,1985,Drama,No
+Who's the Boss?,ABC,10,21.1,1985,Sitcom,No
+Monday Night Football,ABC,15,19.8,1985,Sports,No
+Growing Pains,ABC,17,19.5,1985,Sitcom,No
+Hotel,ABC,22,18.3,1985,Drama,No
+Moonlighting,ABC,24,18.1,1985,Drama,No
+Growing Pains,ABC,8,22.7,1986,Sitcom,No
+Moonlighting,ABC,9,22.4,1986,Drama,No
+Who's the Boss?,ABC,10,22,1986,Sitcom,No
+Monday Night Football,ABC,18,18.4,1986,Sports,No
+Dynasty,ABC,24,17.2,1986,Drama,No
+Head of the Class,ABC,30,16.4,1986,Sitcom,No
+Growing Pains,ABC,5,21.3,1987,Sitcom,No
+Who's the Boss?,ABC,6,21.2,1987,Sitcom,No
+The Wonder Years,ABC,10,18.8,1987,Sitcom,No
+Moonlighting,ABC,12,18.3,1987,Drama,No
+Monday Night Football,ABC,16,17.4,1987,Sports,No
+Head of the Class,ABC,23,16.7,1987,Sitcom,No
+Roseanne,ABC,2,23.8,1988,Sitcom,No
+Who's the Boss?,ABC,7,20.8,1988,Sitcom,No
+Anything but Love,ABC,10,19,1988,Sitcom,No
+Monday Night Football,ABC,15,17.5,1988,Sports,No
+Head of the Class,ABC,20,17.1,1988,Sitcom,No
+ABC Mystery Movie,ABC,29,15.4,1988,Special,No
+Roseanne,ABC,1,23.1,1989,Sitcom,No
+America's Funniest Home Videos,ABC,5,20.9,1989,Reality,No
+The Wonder Years,ABC,8,19.2,1989,Sitcom,No
+Monday Night Football,ABC,10,18.1,1989,Sports,No
+Who's the Boss?,ABC,12,17.9,1989,Sitcom,No
+Chicken Soup,ABC,13,17.7,1989,Sitcom,No
+Coach,ABC,18,17,1989,Sitcom,No
+Growing Pains,ABC,21,15.4,1989,Sitcom,No
+Full House,ABC,22,15.3,1989,Sitcom,No
+Head of the Class,ABC,26,14.8,1989,Sitcom,No
+"Doogie Howser, M.D.",ABC,28,14.5,1989,Sitcom,No
+60 Minutes,CBS,2,20.6,1990,News,No
+Murphy Brown,CBS,6,16.9,1990,Sitcom,No
+Designing Women,CBS,10,16.5,1990,Sitcom,No
+"Murder, She Wrote",CBS,12,16.4,1990,Drama,No
+CBS Sunday Movie,CBS,19,15,1990,Special,No
+Major Dad,CBS,21,14.9,1990,Sitcom,No
+60 Minutes,CBS,1,21.9,1991,News,No
+Murphy Brown,CBS,3,18.6,1991,Sitcom,No
+Designing Women,CBS,6,17.3,1991,Sitcom,No
+"Murder, She Wrote",CBS,8,16.9,1991,Drama,No
+Major Dad,CBS,9,16.8,1991,Sitcom,No
+CBS Sunday Night Movie,CBS,14,15.9,1991,Special,No
+Evening Shade,CBS,15,15.6,1991,Sitcom,No
+Northern Exposure,CBS,16,15.5,1991,Drama,No
+Family Matters,CBS,27,13.5,1991,Sitcom,Yes
+48 Hours,CBS,29,13.2,1991,News,No
+60 Minutes,CBS,1,21.9,1992,News,No
+Murphy Brown,CBS,4,17.9,1992,Sitcom,No
+"Murder, She Wrote",CBS,5,17.7,1992,Drama,No
+CBS Sunday Movie,CBS,8,16.1,1992,Special,No
+Northern Exposure,CBS,11,15.2,1992,Drama,No
+Rescue 911,CBS,12,15.1,1992,Reality,No
+CBS Tuesday Movie,CBS,14,14.8,1992,Special,No
+Love & War,CBS,15,14.7,1992,Sitcom,No
+Evening Shade,CBS,19,14.5,1992,Sitcom,No
+Hearts Afire,CBS,20,14.3,1992,Sitcom,No
+"Dr. Quinn, Medicine Woman",CBS,23,14,1992,Drama,No
+48 Hours,CBS,26,13.5,1992,News,No
+60 Minutes,CBS,1,20.9,1993,News,No
+Murphy Brown,CBS,9,16.3,1993,Sitcom,No
+CBS Sunday Movie,CBS,10,16.2,1993,Special,No
+"Murder, She Wrote",CBS,11,16,1993,Drama,No
+Love & War,CBS,13,14.5,1993,Sitcom,No
+Northern Exposure,CBS,14,14.4,1993,Drama,No
+Dave's World,CBS,21,13.7,1993,Sitcom,No
+CBS Tuesday Movie,CBS,25,13.3,1993,Special,No
+Evening Shade,CBS,27,13.2,1993,Sitcom,No
+Rescue 911,CBS,27,13.2,1993,Reality,No
+60 Minutes,CBS,6,17.2,1994,News,No
+"Murder, She Wrote",CBS,8,15.6,1994,Drama,No
+Murphy Brown,CBS,16,14.1,1994,Sitcom,No
+CBS Sunday Movie,CBS,18,13.7,1994,Special,No
+Dave's World,CBS,21,12.9,1994,Sitcom,No
+Cybill,CBS,22,12.8,1994,Sitcom,No
+The Nanny,CBS,24,12.5,1994,Sitcom,No
+Chicago Hope,CBS,29,11.7,1994,Drama,No
+60 Minutes,CBS,9,14.2,1995,News,No
+The Nanny,CBS,16,12.5,1995,Sitcom,No
+"Walker, Texas Ranger",CBS,18,12.3,1995,Drama,No
+Murphy Brown,CBS,18,12.3,1995,Sitcom,No
+Chicago Hope,CBS,23,11.9,1995,Drama,No
+CBS Sunday Movie,CBS,24,11.4,1995,Special,No
+Can't Hurry Love,CBS,24,11.4,1995,Sitcom,No
+Touched by an Angel,CBS,10,13.6,1996,Drama,No
+60 Minutes,CBS,11,13.3,1996,News,No
+CBS Sunday Movie,CBS,14,12.1,1996,Special,No
+Cosby,CBS,21,11.2,1996,Sitcom,No
+"Walker, Texas Ranger",CBS,23,11,1996,Drama,No
+Chicago Hope,CBS,30,10.5,1996,Drama,No
+Cybill,CBS,30,10.5,1996,Sitcom,No
+Touched by an Angel,CBS,6,14.2,1997,Drama,No
+60 Minutes,CBS,7,13.8,1997,News,No
+CBS Sunday Movie,CBS,9,13.1,1997,Special,No
+Diagnosis: Murder,CBS,22,9.8,1997,Drama,No
+Cosby,CBS,25,9.5,1997,Sitcom,No
+"Walker, Texas Ranger",CBS,28,9.3,1997,Drama,No
+Everybody Loves Raymond,CBS,30,9.2,1997,Sitcom,No
+60 Minutes,CBS,7,13.2,1998,News,No
+Touched by an Angel,CBS,8,13.1,1998,Drama,No
+CBS Sunday Movie,CBS,9,12,1998,Special,No
+Everybody Loves Raymond,CBS,11,10.6,1998,Sitcom,No
+JAG,CBS,16,9.8,1998,Drama,No
+Becker,CBS,19,9.7,1998,Sitcom,No
+"Walker, Texas Ranger",CBS,25,9.2,1998,Drama,No
+60 Minutes II,CBS,30,9,1998,News,Yes
+Diagnosis: Murder,CBS,30,9,1998,Drama,No
+60 Minutes,CBS,8,12,1999,News,No
+Touched by an Angel,CBS,10,11.6,1999,Drama,No
+Everybody Loves Raymond,CBS,12,11.4,1999,Sitcom,No
+CBS Sunday Movie,CBS,14,10.9,1999,Special,No
+Becker,CBS,18,10.4,1999,Sitcom,No
+Judging Amy,CBS,19,10.2,1999,Drama,No
+JAG,CBS,20,9.7,1999,Drama,No
+60 Minutes II,CBS,23,9.3,1999,News,Yes
+Family Law,CBS,27,9,1999,Drama,No
+CBS Wednesday Movie,CBS,30,8.8,1999,Special,No
+Survivor,CBS,1,17.4,2000,Reality,No
+Everybody Loves Raymond,CBS,5,12.6,2000,Sitcom,No
+CSI: Crime Scene Investigation,CBS,11,11.6,2000,Drama,No
+60 Minutes,CBS,15,11.1,2000,News,No
+Becker,CBS,16,10.9,2000,Sitcom,No
+Judging Amy,CBS,21,9.9,2000,Drama,No
+Touched by an Angel,CBS,22,9.7,2000,Drama,No
+JAG,CBS,26,9.2,2000,Drama,No
+The King of Queens,CBS,27,8.9,2000,Sitcom,No
+"Yes, Dear",CBS,28,8.7,2000,Sitcom,No
+Family Law,CBS,29,8.6,2000,Drama,No
+The District,CBS,29,8.6,2000,Drama,No
+CBS Sunday Movie,CBS,29,8.6,2000,Special,No
+CSI: Crime Scene Investigation,CBS,2,14.5,2001,Drama,No
+Everybody Loves Raymond,CBS,4,12.8,2001,Sitcom,No
+Survivor,CBS,6,11.8,2001,Reality,No
+Becker,CBS,11,10.7,2001,Sitcom,No
+60 Minutes,CBS,13,10.1,2001,News,No
+JAG,CBS,14,9.9,2001,Drama,No
+Judging Amy,CBS,16,9.8,2001,Drama,No
+The King of Queens,CBS,19,8.9,2001,Sitcom,No
+"Yes, Dear",CBS,20,8.8,2001,Sitcom,No
+The Guardian,CBS,22,8.4,2001,Drama,No
+Baby Bob,CBS,25,8.1,2001,Sitcom,No
+60 Minutes II,CBS,30,7.7,2001,News,Yes
+Family Law,CBS,30,7.7,2001,Drama,No
+CSI: Crime Scene Investigation,CBS,1,16.3,2002,Drama,No
+Survivor (Thailand & Amazon),CBS,7,11.9,2002,Reality,No
+Everybody Loves Raymond,CBS,7,11.9,2002,Sitcom,No
+CSI: Miami,CBS,11,11,2002,Drama,Yes
+Without a Trace,CBS,15,10,2002,Drama,No
+60 Minutes,CBS,17,9.6,2002,News,No
+Judging Amy,CBS,18,9.5,2002,Drama,No
+Still Standing,CBS,19,9.4,2002,Sitcom,No
+JAG,CBS,22,8.9,2002,Drama,No
+"Yes, Dear",CBS,24,8.6,2002,Sitcom,No
+The King of Queens,CBS,25,8.5,2002,Sitcom,No
+The Guardian,CBS,27,8.3,2002,Drama,No
+My Big Fat Greek Life,CBS,28,8,2002,Reality,Yes
+CSI: Crime Scene Investigation,CBS,1,15.9,2003,Drama,No
+Survivor,CBS,7,12.3,2003,Reality,No
+CSI: Miami,CBS,8,11.9,2003,Drama,Yes
+Everybody Loves Raymond,CBS,9,11.2,2003,Sitcom,No
+Without a Trace,CBS,11,11.1,2003,Drama,No
+Two and a Half Men,CBS,14,9.9,2003,Sitcom,No
+60 Minutes,CBS,16,9.4,2003,News,No
+Cold Case,CBS,17,9.3,2003,Drama,No
+CBS Sunday Movie,CBS,23,7.8,2003,Special,No
+Navy: NCIS,CBS,23,7.8,2003,Drama,Rename
+Judging Amy,CBS,26,7.7,2003,Drama,No
+Still Standing,CBS,26,7.7,2003,Sitcom,No
+The King of Queens,CBS,30,7.3,2003,Sitcom,No
+CSI: Crime Scene Investigation,CBS,1,16.5,2004,Drama,No
+CSI: Miami,CBS,5,12.4,2004,Drama,Yes
+Without a Trace,CBS,6,12.3,2004,Drama,No
+Survivor,CBS,7,12,2004,Reality,No
+Everybody Loves Raymond,CBS,9,11.2,2004,Sitcom,No
+Two and a Half Men,CBS,11,10.6,2004,Sitcom,No
+Cold Case,CBS,14,9.7,2004,Drama,No
+60 Minutes,CBS,16,9.2,2004,News,No
+CSI: NY,CBS,20,8.9,2004,Drama,Yes
+NCIS,CBS,22,8.8,2004,Drama,No
+CBS Sunday Movie,CBS,27,7.6,2004,Special,No
+The Amazing Race,CBS,27,7.6,2004,Reality,No
+Judging Amy,CBS,29,7.4,2004,Drama,No
+CSI: Crime Scene Investigation,CBS,3,15.6,2005,Drama,No
+Without a Trace,CBS,6,12.3,2005,Drama,No
+CSI: Miami,CBS,8,11.8,2005,Drama,Yes
+Survivor,CBS,11,10.3,2005,Reality,No
+NCIS,CBS,12,9.8,2005,Drama,No
+Two and a Half Men,CBS,13,9.7,2005,Sitcom,No
+The Unit,CBS,13,9.7,2005,Drama,No
+Cold Case,CBS,17,9.3,2005,Drama,No
+CSI: NY,CBS,18,9.2,2005,Drama,Yes
+60 Minutes,CBS,21,9,2005,News,No
+The New Adventures of Old Christine,CBS,25,8.3,2005,Sitcom,No
+Criminal Minds,CBS,27,8.2,2005,Drama,No
+Out of Practice,CBS,30,7.8,2005,Sitcom,No
+CSI: Crime Scene Investigation,CBS,6,12.2,2006,Drama,No
+CSI: Miami,CBS,10,10.7,2006,Drama,Yes
+Without a Trace,CBS,12,9.4,2006,Drama,No
+Two and a Half Men,CBS,14,9.1,2006,Sitcom,No
+NCIS,CBS,15,9,2006,Drama,No
+CSI: NY,CBS,16,8.9,2006,Drama,Yes
+Cold Case,CBS,16,8.9,2006,Drama,No
+Criminal Minds,CBS,18,8.8,2006,Drama,No
+Survivor,CBS,18,8.8,2006,Reality,No
+60 Minutes,CBS,20,8.7,2006,News,No
+Shark,CBS,20,8.7,2006,Drama,No
+Rules of Engagement,CBS,25,7.8,2006,Sitcom,No
+The King of Queens,CBS,30,7.3,2006,Sitcom,No
+CSI: Crime Scene Investigation,CBS,7,10.6,2007,Drama,No
+CSI: Miami,CBS,11,9.2,2007,Drama,Yes
+NCIS,CBS,11,9.2,2007,Drama,No
+Without a Trace,CBS,13,8.8,2007,Drama,No
+The Moment of Truth,CBS,13,8.8,2007,Game,No
+Two and a Half Men,CBS,15,8.5,2007,Sitcom,No
+Survivor,CBS,15,8.5,2007,Reality,No
+60 Minutes,CBS,17,8.4,2007,News,No
+Criminal Minds,CBS,18,8.2,2007,Drama,No
+Cold Case,CBS,28,7.1,2007,Drama,No
+Shark,CBS,30,7,2007,Drama,No
+The Unit,CBS,30,7,2007,Drama,No
+CSI: Crime Scene Investigation,CBS,4,11.5,2008,Drama,No
+NCIS,CBS,5,10.9,2008,Drama,No
+The Mentalist,CBS,6,10.8,2008,Drama,No
+Criminal Minds,CBS,11,9.4,2008,Drama,No
+Two and a Half Men,CBS,12,9.1,2008,Sitcom,No
+CSI: Miami,CBS,12,9.1,2008,Drama,Yes
+60 Minutes,CBS,14,8.9,2008,News,No
+CSI: NY,CBS,15,8.6,2008,Drama,Yes
+Without a Trace,CBS,16,8.4,2008,Drama,No
+Survivor,CBS,18,7.8,2008,Reality,No
+Eleventh Hour,CBS,18,7.8,2008,Drama,No
+Cold Case,CBS,20,7.5,2008,Drama,No
+Rules of Engagement,CBS,24,7.1,2008,Sitcom,No
+Ghost Whisperer,CBS,29,6.6,2008,Drama,No
+NUMB3RS,CBS,29,6.6,2008,Drama,No
+NCIS,CBS,4,11.5,2009,Drama,No
+The Mentalist,CBS,6,10.6,2009,Drama,No
+NCIS: Los Angeles,CBS,8,9.8,2009,Drama,Yes
+Undercover Boss,CBS,8,9.8,2009,Reality,No
+CSI: Crime Scene Investigation,CBS,10,9.7,2009,Drama,No
+Two and a Half Men,CBS,12,8.9,2009,Sitcom,No
+The Big Bang Theory,CBS,14,8.5,2009,Sitcom,No
+Criminal Minds,CBS,14,8.5,2009,Drama,No
+The Good Wife,CBS,14,8.5,2009,Drama,No
+60 Minutes,CBS,17,8.4,2009,News,No
+CSI: Miami,CBS,18,8.1,2009,Drama,Yes
+CSI: NY,CBS,19,7.9,2009,Drama,Yes
+Survivor,CBS,19,7.9,2009,Reality,No
+The Amazing Race,CBS,26,6.6,2009,Reality,No
+Cold Case,CBS,29,6.3,2009,Drama,No
+NCIS,CBS,5,11.8,2010,Drama,No
+NCIS: Los Angeles,CBS,7,10.1,2010,Drama,Yes
+The Mentalist,CBS,8,9.6,2010,Drama,No
+Criminal Minds,CBS,10,8.7,2010,Drama,No
+The Good Wife,CBS,11,8.5,2010,Drama,No
+60 Minutes,CBS,12,8.4,2010,News,No
+CSI: Crime Scene Investigation,CBS,12,8.4,2010,Drama,No
+The Big Bang Theory,CBS,14,8,2010,Sitcom,No
+Blue Bloods,CBS,14,8,2010,Drama,No
+Two and a Half Men,CBS,16,7.7,2010,Sitcom,No
+Hawaii Five-0,CBS,17,7.5,2010,Drama,No
+Survivor,CBS,21,7.4,2010,Reality,No
+CSI: Miami,CBS,22,7.3,2010,Drama,Yes
+Undercover Boss,CBS,25,7.1,2010,Reality,No
+Criminal Minds: Suspect Behavior,CBS,29,6.9,2010,Drama,Yes
+Mike & Molly,CBS,29,6.9,2010,Sitcom,No
+NCIS,CBS,2,12.3,2011,Drama,No
+NCIS: Los Angeles,CBS,7,10.2,2011,Drama,Yes
+The Big Bang Theory,CBS,8,9.7,2011,Sitcom,No
+The Mentalist,CBS,9,9.3,2011,Drama,No
+Two and a Half Men,CBS,11,9.1,2011,Sitcom,No
+Person of Interest,CBS,12,9,2011,Drama,No
+Criminal Minds,CBS,13,8.6,2011,Drama,No
+60 Minutes,CBS,14,8.3,2011,News,No
+CSI: Crime Scene Investigation,CBS,16,8,2011,Drama,No
+Unforgettable,CBS,18,7.9,2011,Drama,No
+Blue Bloods,CBS,19,7.8,2011,Drama,No
+The Good Wife,CBS,19,7.8,2011,Drama,No
+Hawaii Five-0,CBS,21,7.6,2011,Drama,No
+Mike & Molly,CBS,25,7.2,2011,Sitcom,No
+Rob,CBS,25,7.2,2011,Sitcom,No
+CSI: Miami,CBS,27,7.1,2011,Drama,Yes
+2 Broke Girls,CBS,28,7,2011,Sitcom,No
+NCIS,CBS,1,13.5,2012,Drama,No
+The Big Bang Theory,CBS,3,11.6,2012,Sitcom,No
+NCIS: Los Angeles,CBS,4,11,2012,Drama,Yes
+Person of Interest,CBS,5,10,2012,Drama,No
+Two and a Half Men,CBS,10,8.7,2012,Sitcom,No
+Blue Bloods,CBS,12,8.5,2012,Drama,No
+Elementary,CBS,14,8.3,2012,Drama,No
+60 Minutes,CBS,16,8,2012,News,No
+Criminal Minds,CBS,16,8,2012,Drama,No
+CSI: Crime Scene Investigation,CBS,18,7.7,2012,Drama,No
+The Mentalist,CBS,18,7.7,2012,Drama,No
+Vegas,CBS,18,7.7,2012,Drama,No
+CSI: NY,CBS,23,7.3,2012,Drama,Yes
+The Good Wife,CBS,23,7.3,2012,Drama,No
+Survivor: Philippines,CBS,23,7.3,2012,Reality,No
+2 Broke Girls,CBS,28,6.8,2012,Sitcom,No
+Hawaii Five-0,CBS,28,6.8,2012,Drama,No
+Survivor: Carmona,CBS,30,6.7,2012,Reality,No
+NCIS,CBS,1,12.6,2013,Drama,No
+The Big Bang Theory,CBS,3,12.3,2013,Sitcom,No
+NCIS: Los Angeles,CBS,4,10.3,2013,Drama,Yes
+Person of Interest,CBS,7,9,2013,Drama,No
+Blue Bloods,CBS,9,8.8,2013,Drama,No
+Criminal Minds,CBS,13,8.2,2013,Drama,No
+CSI: Crime Scene Investigation,CBS,16,7.8,2013,Drama,No
+60 Minutes,CBS,17,7.7,2013,News,No
+Elementary,CBS,18,7.6,2013,Drama,No
+The Good Wife,CBS,18,7.6,2013,Drama,No
+Hawaii Five-0,CBS,21,7.5,2013,Drama,No
+The Mentalist,CBS,23,7.3,2013,Drama,No
+The Millers,CBS,24,7.1,2013,Sitcom,No
+Survivor,CBS,25,7,2013,Reality,No
+Two and a Half Men,CBS,27,6.8,2013,Sitcom,No
+How I Met Your Mother,CBS,28,6.6,2013,Sitcom,No
+Intelligence,CBS,29,6.5,2013,Drama,No
+NCIS,CBS,1,12.6,2015,Drama,No
+The Big Bang Theory,CBS,3,12.3,2015,Sitcom,No
+NCIS: Los Angeles,CBS,4,10.3,2015,Drama,Yes
+Person of Interest,CBS,7,9,2015,Drama,No
+Blue Bloods,CBS,9,8.8,2015,Drama,No
+Criminal Minds,CBS,13,8.2,2015,Drama,No
+CSI: Crime Scene Investigation,CBS,16,7.8,2015,Drama,No
+60 Minutes,CBS,17,7.7,2015,News,No
+Elementary,CBS,18,7.6,2015,Drama,No
+The Good Wife,CBS,18,7.6,2015,Drama,No
+Hawaii Five-0,CBS,21,7.5,2015,Drama,No
+The Mentalist,CBS,23,7.3,2015,Drama,No
+The Millers,CBS,24,7.1,2015,Sitcom,No
+Survivor,CBS,25,7,2015,Reality,No
+Two and a Half Men,CBS,27,6.8,2015,Sitcom,No
+How I Met Your Mother,CBS,28,6.6,2015,Sitcom,No
+Intelligence,CBS,29,6.5,2015,Drama,No
+The Big Bang Theory,CBS,1,11.1,2017,Sitcom,No
+NCIS,CBS,2,10.3,2017,Drama,No
+Young Sheldon,CBS,6,9.5,2017,Sitcom,No
+Bull,CBS,8,8.9,2017,Drama,No
+Blue Bloods,CBS,10,8.2,2017,Drama,No
+NCIS: New Orleans,CBS,11,7.8,2017,Drama,Yes
+NCIS: New Orleans,CBS,11,7.8,2017,Drama,Yes
+60 Minutes,CBS,12,7.1,2017,News,No
+Hawaii Five-0,CBS,16,6.8,2017,Drama,No
+Mom,CBS,18,6.7,2017,Sitcom,No
+NCIS: Los Angeles,CBS,19,6.6,2017,Drama,Yes
+SEAL Team,CBS,23,6.1,2017,Drama,No
+Instinct,CBS,23,6.1,2017,Drama,No
+Criminal Minds,CBS,25,6,2017,Drama,No
+Survivor,CBS,28,5.9,2017,Reality,No
+S.W.A.T.,CBS,29,5.8,2017,Drama,No
+Madam Secretary,CBS,30,5.6,2017,Drama,No
+The Big Bang Theory,CBS,2,10.6,2018,Sitcom,No
+NCIS,CBS,3,9.6,2018,Drama,No
+Young Sheldon,CBS,4,8.7,2018,Sitcom,No
+Blue Bloods,CBS,7,7.9,2018,Drama,No
+FBI,CBS,7,7.9,2018,Drama,No
+Bull,CBS,13,7,2018,Drama,No
+NCIS: New Orleans,CBS,17,6.8,2018,Drama,Yes
+NCIS: New Orleans,CBS,17,6.8,2018,Drama,Yes
+60 Minutes,CBS,18,6.7,2018,News,No
+Mom,CBS,21,6.4,2018,Sitcom,No
+Hawaii Five-0,CBS,22,6.2,2018,Drama,No
+NCIS: Los Angeles,CBS,22,6.2,2018,Drama,Yes
+God Friended Me,CBS,27,5.8,2018,Drama,No
+Survivor,CBS,29,5.5,2018,Reality,No
+The Big Bang Theory,CBS,2,11.6,2014,Sitcom,No
+NCIS,CBS,2,11.6,2014,Drama,No
+NCIS: New Orleans,CBS,4,11.3,2014,Drama,Yes
+NCIS: New Orleans,CBS,4,11.3,2014,Drama,Yes
+Thursday Night Football,CBS,6,10.6,2014,Sports,No
+Criminal Minds,CBS,8,9,2014,Drama,No
+Madam Secretary,CBS,8,9,2014,Drama,No
+Blue Bloods,CBS,11,8.8,2014,Drama,No
+Scorpion,CBS,14,8.4,2014,Drama,No
+The Good Wife,CBS,16,8.1,2014,Drama,No
+60 Minutes,CBS,17,7.8,2014,News,No
+Hawaii Five-0,CBS,17,7.8,2014,Drama,No
+Person of Interest,CBS,20,7.7,2014,Drama,No
+NCIS: Los Angeles,CBS,22,7.6,2014,Drama,Yes
+Two and a Half Men,CBS,23,7.5,2014,Sitcom,No
+Elementary,CBS,25,7.3,2014,Drama,No
+The Mentalist,CBS,25,7.3,2014,Drama,No
+Mom,CBS,25,7.3,2014,Sitcom,No
+CSI: Crime Scene Investigation,CBS,28,7.2,2014,Drama,No
+CSI: Cyber,CBS,28,7.2,2014,Drama,Yes
+All in the Family,CBS,1,30.2,1974,Sitcom,No
+The Jeffersons,CBS,4,27.6,1974,Sitcom,Yes
+M*A*S*H,CBS,5,27.4,1974,Sitcom,No
+Rhoda,CBS,6,26.3,1974,Sitcom,Yes
+Good Times,CBS,7,25.8,1974,Sitcom,Yes
+The Waltons,CBS,8,25.5,1974,Sitcom,No
+Maude,CBS,9,24.9,1974,Sitcom,No
+Hawaii Five-O,CBS,10,24.8,1974,Drama,No
+The Mary Tyler Moore Show,CBS,11,24,1974,Sitcom,No
+Kojak,CBS,14,23.3,1974,Drama,No
+The Bob Newhart Show,CBS,17,22.4,1974,Sitcom,No
+Mannix,CBS,20,21.6,1974,Drama,No
+Cannon,CBS,20,21.6,1974,Drama,No
+Cher,CBS,22,21.3,1974,Variety,Yes
+Paul Sand in Friends and Lovers,CBS,25,20.7,1974,Drama,No
+Tony Orlando & Dawn,CBS,25,20.7,1974,Variety,No
+Medical Center,CBS,27,20.6,1974,Drama,No
+Gunsmoke,CBS,28,20.5,1974,Drama,No
+The Carol Burnett Show,CBS,29,20.4,1974,Sitcom,No
+All in the Family,CBS,1,30.1,1975,Sitcom,No
+Maude,CBS,4,25,1975,Sitcom,No
+Phyllis,CBS,6,24.5,1975,Sitcom,Yes
+Rhoda,CBS,7,24.4,1975,Sitcom,Yes
+One Day at a Time,CBS,12,23.1,1975,Sitcom,No
+The Waltons,CBS,14,22.9,1975,Sitcom,No
+M*A*S*H,CBS,14,22.9,1975,Sitcom,No
+The Mary Tyler Moore Show,CBS,19,21.9,1975,Sitcom,No
+Kojak,CBS,20,21.8,1975,Drama,No
+The Jeffersons,CBS,21,21.5,1975,Sitcom,Yes
+The Sonny & Cher Show,CBS,23,21.2,1975,Variety,No
+Good Times,CBS,24,21,1975,Sitcom,Yes
+The Bob Newhart Show,CBS,26,20.7,1975,Sitcom,No
+The Carol Burnett Show,CBS,29,20.5,1975,Sitcom,No
+M*A*S*H,CBS,4,25.9,1976,Sitcom,No
+One Day at a Time,CBS,8,23.4,1976,Sitcom,No
+All in the Family,CBS,12,22.9,1976,Sitcom,No
+The Waltons,CBS,15,22.3,1976,Sitcom,No
+60 Minutes,CBS,18,21.9,1976,News,No
+Hawaii Five-O,CBS,18,21.9,1976,Drama,No
+The Jeffersons,CBS,24,21,1976,Sitcom,Yes
+Good Times,CBS,26,20.5,1976,Sitcom,Yes
+Alice,CBS,30,20,1976,Sitcom,No
+60 Minutes,CBS,4,24.4,1977,News,No
+All in the Family,CBS,4,24.4,1977,Sitcom,No
+Alice,CBS,8,23.2,1977,Sitcom,No
+M*A*S*H,CBS,8,23.2,1977,Sitcom,No
+One Day at a Time,CBS,10,23,1977,Sitcom,No
+The Waltons,CBS,20,20.8,1977,Sitcom,No
+Barnaby Jones,CBS,22,20.6,1977,Drama,Yes
+Hawaii Five-O,CBS,23,20.4,1977,Drama,No
+Rhoda,CBS,25,20.1,1977,Sitcom,Yes
+The Incredible Hulk,CBS,26,19.9,1977,Drama,No
+Family,CBS,26,19.9,1977,Drama,No
+On Our Own,CBS,29,19.6,1977,Drama,No
+60 Minutes,CBS,6,25.5,1978,News,No
+M*A*S*H,CBS,7,25.4,1978,Sitcom,No
+All in the Family,CBS,9,24.9,1978,Sitcom,No
+Alice,CBS,13,23.2,1978,Sitcom,No
+One Day at a Time,CBS,18,21.6,1978,Sitcom,No
+The Dukes of Hazzard,CBS,20,21,1978,Sitcom,No
+Barnaby Jones,CBS,24,20.5,1978,Drama,Yes
+Stockard Channing in Just Friends,CBS,26,20.2,1978,Sitcom,No
+Lou Grant,CBS,30,19.7,1978,Sitcom,Yes
+60 Minutes,CBS,1,28.4,1979,News,No
+Alice,CBS,4,25.3,1979,Sitcom,No
+M*A*S*H,CBS,4,25.3,1979,Sitcom,No
+Dallas,CBS,6,25,1979,Drama,No
+Flo,CBS,7,24.4,1979,Sitcom,Yes
+The Jeffersons,CBS,8,24.3,1979,Sitcom,Yes
+The Dukes of Hazzard,CBS,9,24.1,1979,Sitcom,No
+One Day at a Time,CBS,10,23,1979,Sitcom,No
+Archie Bunker's Place,CBS,11,22.9,1979,Sitcom,Yes
+House Calls,CBS,14,22.1,1979,Sitcom,No
+"Trapper John, M.D.",CBS,19,21.2,1979,Drama,No
+WKRP in Cincinnati,CBS,22,20.7,1979,Sitcom,No
+Knots Landing,CBS,29,20,1979,Drama,Yes
+Dallas,CBS,1,34.5,1980,Drama,No
+The Dukes of Hazzard,CBS,2,27.3,1980,Sitcom,No
+60 Minutes,CBS,3,27,1980,News,No
+M*A*S*H,CBS,4,25.7,1980,Sitcom,No
+The Jeffersons,CBS,6,23.5,1980,Sitcom,Yes
+Alice,CBS,7,22.9,1980,Sitcom,No
+House Calls,CBS,8,22.4,1980,Sitcom,No
+One Day at a Time,CBS,11,22,1980,Sitcom,No
+Archie Bunker's Place,CBS,13,21.4,1980,Sitcom,Yes
+"Magnum, P.I.",CBS,14,21,1980,Drama,No
+"Trapper John, M.D.",CBS,17,20.7,1980,Drama,No
+Lou Grant,CBS,27,19.1,1980,Sitcom,Yes
+Knots Landing,CBS,28,19,1980,Drama,Yes
+The Waltons,CBS,30,18.6,1980,Sitcom,No
+Dallas,CBS,1,28.4,1981,Drama,No
+60 Minutes,CBS,2,27.7,1981,News,No
+The Jeffersons,CBS,3,23.4,1981,Sitcom,Yes
+Alice,CBS,5,22.7,1981,Sitcom,No
+The Dukes of Hazzard,CBS,6,22.6,1981,Sitcom,No
+Too Close for Comfort,CBS,6,22.6,1981,Sitcom,No
+M*A*S*H,CBS,9,22.3,1981,Sitcom,No
+One Day at a Time,CBS,10,22,1981,Sitcom,No
+Archie Bunker's Place,CBS,12,21.6,1981,Sitcom,Yes
+Falcon Crest,CBS,13,21.4,1981,Drama,No
+"Magnum, P.I.",CBS,17,20.9,1981,Drama,No
+House Calls,CBS,23,19.2,1981,Sitcom,No
+60 Minutes,CBS,1,25.5,1982,News,No
+Dallas,CBS,2,24.6,1982,Drama,No
+M*A*S*H,CBS,3,22.6,1982,Sitcom,No
+"Magnum, P.I.",CBS,3,22.6,1982,Drama,No
+Simon & Simon,CBS,7,21,1982,Drama,No
+Falcon Crest,CBS,8,20.7,1982,Drama,No
+The Jeffersons,CBS,12,20,1982,Sitcom,Yes
+Newhart,CBS,12,20,1982,Sitcom,No
+One Day at a Time,CBS,16,19.1,1982,Sitcom,No
+Gloria,CBS,18,18.7,1982,Sitcom,Yes
+"Trapper John, M.D.",CBS,18,18.7,1982,Drama,No
+Knots Landing,CBS,20,18.6,1982,Drama,Yes
+Archie Bunker's Place,CBS,22,18.3,1982,Sitcom,Yes
+CBS Tuesday Night Movie,CBS,27,17.5,1982,Special,No
+The Dukes of Hazzard,CBS,30,17.2,1982,Sitcom,No
+Dallas,CBS,1,25.7,1983,Drama,No
+60 Minutes,CBS,2,24.2,1983,News,No
+Simon & Simon,CBS,5,23.8,1983,Drama,No
+"Magnum, P.I.",CBS,6,22.4,1983,Drama,No
+Falcon Crest,CBS,7,22,1983,Drama,No
+Kate & Allie,CBS,8,21.9,1983,Sitcom,No
+Cagney & Lacey,CBS,10,20.9,1983,Sitcom,No
+Knots Landing,CBS,11,20.8,1983,Drama,Yes
+AfterMASH,CBS,15,20.1,1983,Sitcom,Yes
+The Jeffersons,CBS,19,18.6,1983,Sitcom,Yes
+Scarecrow & Mrs. King,CBS,20,18.3,1983,Drama,No
+Newhart,CBS,23,18,1983,Sitcom,No
+CBS Tuesday Night Movie,CBS,25,17.2,1983,Special,No
+Alice,CBS,25,17.2,1983,Sitcom,No
+"Trapper John, M.D.",CBS,30,17,1983,Drama,No
+Dallas,CBS,2,24.7,1984,Drama,No
+60 Minutes,CBS,4,22.2,1984,News,No
+Simon & Simon,CBS,7,21.8,1984,Drama,No
+"Murder, She Wrote",CBS,8,20.1,1984,Drama,No
+Knots Landing,CBS,9,20,1984,Drama,Yes
+Falcon Crest,CBS,10,19.9,1984,Drama,No
+Crazy Like a Fox,CBS,10,19.9,1984,Drama,No
+"Magnum, P.I.",CBS,15,19.1,1984,Drama,No
+Newhart,CBS,16,18.4,1984,Sitcom,No
+Kate & Allie,CBS,17,18.3,1984,Sitcom,No
+Scarecrow & Mrs. King,CBS,22,17.1,1984,Drama,No
+Cagney & Lacey,CBS,28,16.9,1984,Sitcom,No
+"Trapper John, M.D.",CBS,29,16.8,1984,Drama,No
+"Murder, She Wrote",CBS,3,25.3,1985,Drama,No
+60 Minutes,CBS,4,23.9,1985,News,No
+Dallas,CBS,6,21.9,1985,Drama,No
+CBS Sunday Night Movie,CBS,12,20.5,1985,Special,No
+Kate & Allie,CBS,14,20,1985,Sitcom,No
+Newhart,CBS,16,19.6,1985,Sitcom,No
+Knots Landing,CBS,17,19.5,1985,Drama,Yes
+Falcon Crest,CBS,24,18.1,1985,Drama,No
+Scarecrow & Mrs. King,CBS,28,17.4,1985,Drama,No
+Simon & Simon,CBS,29,17.2,1985,Drama,No
+"Murder, She Wrote",CBS,4,25.4,1986,Drama,No
+60 Minutes,CBS,6,23.3,1986,News,No
+Dallas,CBS,11,21.3,1986,Drama,No
+Newhart,CBS,12,19.5,1986,Sitcom,No
+CBS Sunday Night Movie,CBS,15,18.6,1986,Special,No
+Kate & Allie,CBS,19,18.3,1986,Sitcom,No
+Knots Landing,CBS,26,16.8,1986,Drama,Yes
+60 Minutes,CBS,8,20.6,1987,News,No
+"Murder, She Wrote",CBS,9,20.2,1987,Drama,No
+CBS Sunday Night Movie,CBS,18,17.2,1987,Special,No
+Dallas,CBS,22,16.8,1987,Drama,No
+Newhart,CBS,25,16.5,1987,Sitcom,No
+60 Minutes,CBS,5,21.7,1988,News,No
+"Murder, She Wrote",CBS,8,19.9,1988,Drama,No
+Knots Landing,CBS,27,16.1,1988,Drama,Yes
+CBS Sunday Movie,CBS,27,16.1,1988,Special,No
+Dallas,CBS,29,15.4,1988,Drama,No
+60 Minutes,CBS,7,19.7,1989,News,No
+"Murder, She Wrote",CBS,13,17.7,1989,Drama,No
+Designing Women,CBS,22,15.3,1989,Sitcom,No
+CBS Sunday Movie,CBS,24,14.9,1989,Special,No
+Murphy Brown,CBS,27,14.7,1989,Sitcom,No
+Thursday Night Football,CBS/NBC,9,8.5,2017,Sports,No
+The Simpsons,FOX,30,13,1992,Sitcom,Yes
+The X-Files,FOX,21,11.2,1996,Drama,No
+The X-Files,FOX,19,10.6,1997,Drama,No
+King of the Hill,FOX,23,9.7,1997,Sitcom,No
+The Simpsons,FOX,30,9.2,1997,Sitcom,Yes
+Ally McBeal,FOX,23,9.6,1998,Drama,No
+The X-Files,FOX,28,9.1,1998,Drama,No
+Malcolm in the Middle,FOX,28,8.9,1999,Sitcom,No
+Temptation Island,FOX,17,10.7,2000,Reality,No
+Joe Millionaire,FOX,3,13.3,2002,Reality,No
+American Idol - Tuesday,FOX,5,12.6,2002,Variety,No
+American Idol - Wednesday,FOX,6,12.5,2002,Variety,No
+American Idol - Tuesday,FOX,2,14.9,2003,Variety,No
+American Idol - Wednesday,FOX,3,14.1,2003,Variety,No
+My Big Fat Obnoxious Fiance,FOX,14,9.9,2003,Reality,Yes
+American Idol - Tuesday,FOX,2,15.7,2004,Variety,No
+American Idol - Wednesday,FOX,3,15.3,2004,Variety,No
+House,FOX,23,8.3,2004,Drama,Yes
+American Idol - Tuesday,FOX,1,17.6,2005,Variety,No
+American Idol - Wednesday,FOX,2,17.2,2005,Variety,No
+House,FOX,9,10.6,2005,Drama,Yes
+Unan1mous,FOX,25,8.3,2005,Drama,No
+24,FOX,28,8.1,2005,Drama,No
+American Idol - Wednesday,FOX,1,17.3,2006,Variety,No
+American Idol - Tuesday,FOX,2,16.8,2006,Variety,No
+House,FOX,8,11.1,2006,Drama,Yes
+Are You Smarter than a 5th Grader?,FOX,30,7.3,2006,Game,No
+American Idol - Tuesday,FOX,1,16.1,2007,Variety,No
+American Idol - Wednesday,FOX,2,15.9,2007,Variety,No
+House,FOX,8,10.5,2007,Drama,Yes
+Hell's Kitchen,FOX,30,7,2007,Reality,No
+American Idol - Wednesday,FOX,1,15.1,2008,Variety,No
+American Idol - Tuesday,FOX,2,14.6,2008,Variety,No
+House,FOX,17,8.1,2008,Drama,Yes
+24,FOX,22,7.3,2008,Drama,No
+Bones,FOX,26,6.7,2008,Drama,No
+American Idol - Tuesday,FOX,1,13.7,2009,Variety,No
+American Idol - Wednesday,FOX,2,13.3,2009,Variety,No
+House,FOX,22,7.5,2009,Drama,Yes
+Bones,FOX,27,6.5,2009,Drama,No
+24,FOX,28,6.4,2009,Drama,No
+American Idol - Wednesday,FOX,1,14.5,2010,Variety,No
+American Idol - Thursday,FOX,3,13.4,2010,Variety,No
+Bones,FOX,27,7,2010,Drama,No
+American Idol - Wednesday,FOX,4,11.8,2011,Variety,No
+American Idol - Thursday,FOX,5,11,2011,Variety,No
+The X Factor - Thursday,FOX,23,7.4,2011,Variety,No
+The X Factor - Wednesday,FOX,23,7.4,2011,Variety,No
+American Idol - Wednesday,FOX,7,9.2,2012,Variety,No
+American Idol - Thursday,FOX,9,8.9,2012,Variety,No
+The Following,FOX,23,7.3,2012,Drama,No
+American Idol - Wednesday,FOX,22,7.4,2013,Variety,No
+American Idol - Thursday,FOX,25,7,2013,Variety,No
+American Idol - Wednesday,FOX,22,7.4,2015,Variety,No
+American Idol - Thursday,FOX,25,7,2015,Variety,No
+nine eleven,FOX,25,6,2017,Drama,No
+Thursday Night Football,FOX,4,8.7,2018,Sports,No
+The Masked Singer,FOX,25,6,2018,Variety,No
+nine eleven,FOX,26,5.9,2018,Drama,No
+Empire,FOX,5,10.9,2014,Drama,No
+The Simpsons,FOX,28,14.5,1989,Sitcom,Yes
+Real People,NBC,16,21.8,1979,Reality,No
+The Fall Guy,ABC,25,17,1984,Drama,No
+Remington Steele,NBC,25,17,1984,Drama,No
+Webster,NBC,25,17,1984,Sitcom,No
+Cheers,NBC,1,21.3,1990,Sitcom,No
+A Different World,NBC,4,17.5,1990,Sitcom,Yes
+The Cosby Show,NBC,5,17.1,1990,Sitcom,No
+Empty Nest,NBC,7,16.7,1990,Sitcom,Yes
+Empty Nest,NBC,7,16.7,1990,Sitcom,Yes
+The Golden Girls,NBC,10,16.5,1990,Sitcom,No
+Unsolved Mysteries,NBC,16,15.7,1990,Reality,No
+Matlock,NBC,17,15.5,1990,Drama,No
+In the Heat of the Night,NBC,21,14.9,1990,Drama,No
+L.A. Law,NBC,23,14.8,1990,Drama,No
+Grand,NBC,25,14.6,1990,Sitcom,No
+Cheers,NBC,4,17.5,1991,Sitcom,No
+Unsolved Mysteries,NBC,13,16.5,1991,Reality,No
+A Different World,NBC,17,15.2,1991,Sitcom,Yes
+The Cosby Show,NBC,18,15,1991,Sitcom,No
+Wings,NBC,19,14.6,1991,Sitcom,No
+The Fresh Prince of Bel-Air,NBC,22,14.3,1991,Sitcom,No
+Empty Nest,NBC,22,14.3,1991,Sitcom,Yes
+Empty Nest,NBC,22,14.3,1991,Sitcom,Yes
+NBC Monday Movie,NBC,24,13.9,1991,Special,No
+L.A. Law,NBC,28,13.3,1991,Drama,No
+In the Heat of the Night,NBC,30,13.1,1991,Drama,No
+Cheers,NBC,8,16.1,1992,Sitcom,No
+The Fresh Prince of Bel-Air,NBC,16,14.6,1992,Sitcom,No
+Unsolved Mysteries,NBC,21,14.2,1992,Reality,No
+NBC Monday Movie,NBC,24,13.9,1992,Special,No
+Seinfeld,NBC,25,13.7,1992,Sitcom,No
+Blossom,NBC,26,13.5,1992,Sitcom,No
+Wings,NBC,30,13,1992,Sitcom,No
+Seinfeld,NBC,3,19.4,1993,Sitcom,No
+Frasier,NBC,7,16.8,1993,Sitcom,Yes
+Wings,NBC,18,13.9,1993,Sitcom,No
+The Fresh Prince of Bel-Air,NBC,21,13.7,1993,Sitcom,No
+NBC Monday Movie,NBC,23,13.6,1993,Special,No
+Homicide: Life on the Street,NBC,24,13.5,1993,Drama,No
+Seinfeld,NBC,1,20.6,1994,Sitcom,No
+ER,NBC,2,20,1994,Drama,No
+Friends,NBC,8,15.6,1994,Sitcom,No
+Mad About You,NBC,11,15.2,1994,Sitcom,No
+Madman of the People,NBC,12,14.9,1994,Sitcom,No
+Hope and Gloria,NBC,14,14.6,1994,Sitcom,No
+Frasier,NBC,15,14.5,1994,Sitcom,Yes
+NBC Monday Movie,NBC,19,13.6,1994,Special,No
+Wings,NBC,26,12.3,1994,Sitcom,No
+Law & Order,NBC,27,12.2,1994,Drama,No
+NBC Sunday Night Movie,NBC,28,12,1994,Special,No
+The Martin Short Show,NBC,29,11.7,1994,Sitcom,No
+ER,NBC,1,22,1995,Drama,No
+Seinfeld,NBC,2,21.2,1995,Sitcom,No
+Friends,NBC,3,18.7,1995,Sitcom,No
+Caroline in the City,NBC,4,18,1995,Sitcom,No
+The Single Guy,NBC,6,16.7,1995,Sitcom,No
+Boston Common,NBC,8,15.6,1995,Sitcom,No
+Frasier,NBC,11,13.6,1995,Sitcom,Yes
+NBC Monday Movie,NBC,14,12.9,1995,Special,No
+NBC Sunday Movie,NBC,21,12.2,1995,Special,No
+3rd Rock from the Sun,NBC,22,12.1,1995,Sitcom,No
+Law & Order,NBC,24,11.4,1995,Drama,No
+Dateline NBC - Tuesday,NBC,28,11.3,1995,News,Rename
+ER,NBC,1,21.2,1996,Drama,No
+Seinfeld,NBC,2,20.5,1996,Sitcom,No
+Suddenly Susan,NBC,3,17,1996,Sitcom,No
+Friends,NBC,4,16.8,1996,Sitcom,No
+The Naked Truth,NBC,4,16.8,1996,Sitcom,No
+Fired Up,NBC,6,16.5,1996,Sitcom,No
+The Single Guy,NBC,8,14.1,1996,Sitcom,No
+Frasier,NBC,16,11.8,1996,Sitcom,Yes
+NBC Sunday Movie,NBC,18,11.5,1996,Special,No
+Dateline NBC - Tuesday,NBC,20,11.4,1996,News,Rename
+Mad About You,NBC,23,11,1996,Sitcom,No
+Caroline in the City,NBC,23,11,1996,Sitcom,No
+NBC Monday Movie,NBC,23,11,1996,Special,No
+Law & Order,NBC,27,10.8,1996,Drama,No
+Dateline NBC - Friday,NBC,30,10.5,1996,News,Rename
+Seinfeld,NBC,1,21.7,1997,Sitcom,No
+ER,NBC,2,20.4,1997,Drama,No
+Veronica's Closet,NBC,3,16.6,1997,Sitcom,No
+Friends,NBC,4,16.1,1997,Sitcom,No
+Union Square,NBC,8,13.6,1997,Sitcom,No
+Frasier,NBC,10,12,1997,Sitcom,Yes
+Just Shoot Me!,NBC,12,11.9,1997,Sitcom,No
+Law & Order,NBC,20,10.2,1997,Drama,No
+Mad About You,NBC,23,9.7,1997,Sitcom,No
+NBC Sunday Night Movie,NBC,27,9.4,1997,Special,No
+ER,NBC,1,17.8,1998,Drama,No
+Friends,NBC,2,15.7,1998,Sitcom,No
+Frasier,NBC,3,15.6,1998,Sitcom,Yes
+Veronica's Closet,NBC,5,13.7,1998,Sitcom,No
+Jesse,NBC,5,13.7,1998,Sitcom,No
+Law & Order,NBC,13,10.1,1998,Drama,No
+Providence,NBC,16,9.8,1998,Drama,No
+Dateline NBC - Tuesday,NBC,19,9.7,1998,News,Rename
+Dateline NBC - Friday,NBC,25,9.2,1998,News,Rename
+NBC Sunday Night Movie,NBC,28,9.1,1998,Special,No
+ER,NBC,4,16.9,1999,Drama,No
+Friends,NBC,5,14,1999,Sitcom,No
+Frasier,NBC,6,13.6,1999,Sitcom,Yes
+Law & Order,NBC,11,11.5,1999,Drama,No
+Jesse,NBC,13,11.3,1999,Sitcom,No
+Stark Raving Mad,NBC,15,10.7,1999,Sitcom,No
+Providence,NBC,22,9.4,1999,Drama,No
+The West Wing,NBC,24,9.1,1999,Drama,No
+Dateline NBC - Friday,NBC,28,8.9,1999,News,Rename
+Law & Order: Special Victims Unit,NBC,30,8.8,1999,Drama,Yes
+ER,NBC,2,15,2000,Drama,No
+Friends,NBC,5,12.6,2000,Sitcom,No
+Law & Order,NBC,9,12.3,2000,Drama,No
+The West Wing,NBC,11,11.6,2000,Drama,No
+Will & Grace,NBC,14,11.3,2000,Sitcom,No
+Frasier,NBC,17,10.7,2000,Sitcom,Yes
+Just Shoot Me!,NBC,20,10.4,2000,Sitcom,No
+Cursed/The Weber Show,NBC,22,9.7,2000,Sitcom,No
+Law & Order: Special Victims Unit,NBC,25,9.6,2000,Drama,Yes
+Friends,NBC,1,15,2001,Sitcom,No
+ER,NBC,3,14.2,2001,Drama,No
+Law & Order,NBC,5,12.6,2001,Drama,No
+The West Wing,NBC,8,11.4,2001,Drama,No
+Will & Grace,NBC,9,11,2001,Sitcom,No
+Leap of Faith,NBC,9,11,2001,Sitcom,No
+Law & Order: Special Victims Unit,NBC,12,10.4,2001,Drama,Yes
+Frasier,NBC,14,9.9,2001,Sitcom,Yes
+Inside Schwartz,NBC,16,9.8,2001,Sitcom,No
+Just Shoot Me!,NBC,18,9.3,2001,Sitcom,No
+Crossing Jordan,NBC,20,8.8,2001,Drama,No
+Dateline NBC - Friday,NBC,25,8.1,2001,News,Rename
+Fear Factor,NBC,27,7.9,2001,Reality,No
+Law & Order: Criminal Intent,NBC,27,7.9,2001,Drama,No
+Law & Order: Criminal Intent,NBC,27,7.9,2001,Drama,Yes
+Providence,NBC,27,7.9,2001,Drama,No
+Friends,NBC,2,13.9,2002,Sitcom,No
+ER,NBC,4,13.1,2002,Drama,No
+Law & Order,NBC,9,11.7,2002,Drama,No
+Will & Grace,NBC,11,11,2002,Sitcom,No
+Scrubs,NBC,13,10.3,2002,Sitcom,No
+Law & Order: Special Victims Unit,NBC,14,10.1,2002,Drama,Yes
+Law & Order: Criminal Intent,NBC,19,9.4,2002,Drama,No
+Law & Order: Criminal Intent,NBC,19,9.4,2002,Drama,Yes
+The West Wing,NBC,21,9,2002,Drama,No
+"Good Morning, Miami",NBC,23,8.7,2002,Sitcom,No
+Frasier,NBC,26,8.4,2002,Sitcom,Yes
+Fear Factor,NBC,30,7.7,2002,Reality,No
+Friends,NBC,4,13.6,2003,Sitcom,No
+The Apprentice,NBC,5,13,2003,Reality,No
+ER,NBC,6,12.9,2003,Drama,No
+Law & Order,NBC,12,10.8,2003,Drama,No
+Will & Grace,NBC,13,10.4,2003,Sitcom,No
+Law & Order: Special Victims Unit,NBC,18,8.7,2003,Drama,Yes
+Crossing Jordan,NBC,19,8.6,2003,Drama,No
+Law & Order: Criminal Intent,NBC,19,NA,2003,Drama,No
+Law & Order: Criminal Intent,NBC,19,NA,2003,Drama,Yes
+Fear Factor,NBC,22,7.9,2003,Reality,No
+The West Wing,NBC,23,7.8,2003,Drama,No
+Las Vegas,NBC,28,7.6,2003,Drama,No
+Average Joe,NBC,29,7.4,2003,Reality,No
+Frasier,NBC,30,7.3,2003,Sitcom,Yes
+ER,NBC,12,10.4,2004,Drama,No
+The Apprentice,NBC,14,9.7,2004,Reality,No
+Law & Order: Special Victims Unit,NBC,16,9.2,2004,Drama,Yes
+Medium,NBC,18,9.1,2004,Drama,No
+Law & Order,NBC,20,8.9,2004,Drama,No
+Law & Order: Criminal Intent,NBC,25,7.9,2004,Drama,No
+Law & Order: Criminal Intent,NBC,25,7.9,2004,Drama,Yes
+Crossing Jordan,NBC,26,7.7,2004,Drama,No
+The West Wing,NBC,29,7.4,2004,Drama,No
+Deal or No Deal - Monday,NBC,15,9.6,2005,Game,No
+Law & Order: Special Victims Unit,NBC,18,9.2,2005,Drama,Yes
+Deal or No Deal - Wednesday,NBC,21,9,2005,Game,No
+ER,NBC,28,8.1,2005,Drama,No
+Sunday Night Football,NBC,11,10.5,2006,Sports,No
+Deal or No Deal - Monday,NBC,13,9.2,2006,Game,No
+Heroes,NBC,23,8,2006,Drama,No
+Law & Order: Special Victims Unit,NBC,24,7.9,2006,Drama,Yes
+Sunday Night Football,NBC,10,9.7,2007,Sports,No
+Law & Order: Special Victims Unit,NBC,22,7.6,2007,Drama,Yes
+Law & Order,NBC,27,7.2,2007,Drama,No
+Deal or No Deal - Monday,NBC,28,7.1,2007,Game,No
+Sunday Night Football,NBC,8,10,2008,Sports,No
+Law & Order: Special Victims Unit,NBC,26,6.7,2008,Drama,Yes
+ER,NBC,26,6.7,2008,Drama,No
+Sunday Night Football,NBC,5,11.3,2009,Sports,No
+Sunday Night Football,NBC,4,12.7,2010,Sports,No
+The Voice,NBC,17,7.5,2010,Variety,No
+Harry's Law,NBC,22,7.3,2010,Drama,No
+Sunday Night Football,NBC,1,12.4,2011,Sports,No
+The Voice,NBC,10,9.2,2011,Variety,No
+Sunday Night Football,NBC,2,12.4,2012,Sports,No
+The Voice,NBC,10,8.7,2012,Variety,No
+The Voice - Tuesday,NBC,13,8.4,2012,Variety,No
+Sunday Night Football,NBC,1,12.6,2013,Sports,No
+The Blacklist,NBC,6,9.5,2013,Drama,No
+The Voice,NBC,8,8.9,2013,Variety,No
+The Voice - Tuesday,NBC,10,8.6,2013,Variety,No
+Chicago Fire,NBC,29,6.5,2013,Drama,No
+Sunday Night Football,NBC,1,12.6,2015,Sports,No
+The Blacklist,NBC,6,9.5,2015,Drama,No
+The Voice,NBC,8,8.9,2015,Variety,No
+The Voice - Tuesday,NBC,10,8.6,2015,Variety,No
+Chicago Fire,NBC,29,6.5,2015,Drama,No
+Sunday Night Football,NBC,2,10.3,2017,Sports,No
+This Is Us,NBC,4,10.2,2017,Drama,No
+The Voice,NBC,12,7.1,2017,Variety,No
+The Voice: Tuesday,NBC,16,6.8,2017,Variety,No
+Chicago Med,NBC,19,6.6,2017,Drama,Yes
+Chicago P.D.,NBC,21,6.5,2017,Drama,Yes
+Chicago Fire,NBC,22,6.2,2017,Drama,No
+Law & Order: Special Victims Unit,NBC,30,5.6,2017,Drama,Yes
+Sunday Night Football,NBC,1,10.9,2018,Sports,No
+This Is Us,NBC,6,8.5,2018,Drama,No
+Manifest,NBC,9,7.4,2018,Drama,No
+Chicago Fire,NBC,11,7.2,2018,Drama,No
+America's Got Talent: The Champions,NBC,11,7.2,2018,Variety,Yes
+Chicago Med,NBC,13,7,2018,Drama,Yes
+Chicago P.D.,NBC,15,6.9,2018,Drama,Yes
+New Amsterdam,NBC,15,6.9,2018,Drama,No
+The Voice,NBC,19,6.6,2018,Variety,No
+The Voice: Tuesday,NBC,22,6.2,2018,Variety,No
+Sunday Night Football,NBC,1,12.3,2014,Sports,No
+The Blacklist,NBC,12,8.7,2014,Drama,No
+The Voice: Monday,NBC,13,8.5,2014,Variety,No
+The Voice: Tuesday,NBC,15,8.3,2014,Variety,No
+Sanford and Son,NBC,2,29.6,1974,Sitcom,No
+Chico and the Man,NBC,3,28.5,1974,Sitcom,No
+The Rockford Files,NBC,12,23.7,1974,Drama,No
+Little House on the Prairie,NBC,13,23.5,1974,Drama,No
+Police Woman,NBC,15,22.8,1974,Drama,No
+The Wonderful World of Disney,NBC,18,22,1974,Variety,No
+The NBC Sunday Mystery Movie,NBC,22,21.3,1974,Special,No
+Emergency!,NBC,30,20,1974,Drama,Yes
+Sanford and Son,NBC,7,24.4,1975,Sitcom,No
+Chico and the Man,NBC,25,20.8,1975,Sitcom,No
+Police Woman,NBC,30,20.2,1975,Drama,No
+The Big Event,NBC,6,24.4,1976,Special,No
+Little House on the Prairie,NBC,15,22.3,1976,Drama,No
+NBC Monday Night Movie,NBC,20,21.8,1976,Special,No
+Sanford and Son,NBC,27,20.3,1976,Sitcom,No
+Little House on the Prairie,NBC,7,24.1,1977,Drama,No
+NBC Monday Night Movie,NBC,15,21.7,1977,Special,No
+Project U.F.O.,NBC,19,21.2,1977,Drama,No
+The Big Event - Sunday,NBC,30,19.4,1977,Special,Yes
+Little House on the Prairie,NBC,14,23.1,1978,Drama,No
+NBC Monday Night Movie,NBC,21,20.9,1978,Special,No
+CHiPs,NBC,25,20.3,1978,Drama,No
+Diff'rent Strokes,NBC,27,19.9,1978,Sitcom,No
+Real People,NBC,14,22.1,1979,Reality,No
+CHiPs,NBC,18,21.5,1979,Drama,No
+Diff'rent Strokes,NBC,26,20.3,1979,Sitcom,No
+Little House on the Prairie,NBC,10,22.1,1980,Drama,No
+Real People,NBC,12,21.5,1980,Reality,No
+Diff'rent Strokes,NBC,17,20.7,1980,Sitcom,No
+CHiPs,NBC,24,19.4,1980,Drama,No
+The Facts of Life,NBC,26,19.3,1980,Sitcom,Yes
+NBC Monday Night Movie,NBC,29,18.8,1980,Special,No
+Real People,NBC,21,19.7,1981,Reality,No
+The Facts of Life,NBC,24,19.1,1981,Sitcom,Yes
+Little House on the Prairie,NBC,24,19.1,1981,Drama,No
+Hill Street Blues,NBC,27,18.6,1981,Drama,No
+The A-Team,NBC,10,20.1,1982,Drama,No
+Hill Street Blues,NBC,21,18.4,1982,Drama,No
+Little House: A New Beginning,NBC,28,17.4,1982,Drama,Yes
+Real People,NBC,30,17.2,1982,Reality,No
+The A-Team,NBC,4,24,1983,Drama,No
+TV's Bloopers & Practical Jokes,NBC,14,20.3,1983,Variety,No
+Riptide,NBC,18,18.8,1983,Drama,No
+NBC Monday Night Movie,NBC,21,18.1,1983,Special,No
+The Facts of Life,NBC,24,17.3,1983,Sitcom,Yes
+Knight Rider,NBC,25,17.2,1983,Drama,No
+The Cosby Show,NBC,3,24.2,1984,Sitcom,No
+Family Ties,NBC,5,22.1,1984,Sitcom,No
+The A-Team,NBC,6,21.9,1984,Drama,No
+Cheers,NBC,12,19.7,1984,Sitcom,No
+NBC Monday Night Movie,NBC,18,18.2,1984,Special,No
+Highway to Heaven,NBC,19,17.7,1984,Drama,No
+Night Court,NBC,20,17.6,1984,Sitcom,No
+TV's Bloopers & Practical Jokes,NBC,22,17.1,1984,Variety,No
+Hill Street Blues,NBC,30,16.6,1984,Drama,No
+The Cosby Show,NBC,1,33.7,1985,Sitcom,No
+Family Ties,NBC,2,30,1985,Sitcom,No
+Cheers,NBC,5,23.7,1985,Sitcom,No
+The Golden Girls,NBC,7,21.8,1985,Sitcom,No
+Miami Vice,NBC,9,21.3,1985,Drama,No
+Night Court,NBC,11,20.9,1985,Sitcom,No
+Highway to Heaven,NBC,13,20.1,1985,Drama,No
+You Again?,NBC,19,19.2,1985,Sitcom,No
+227,NBC,20,18.8,1985,Sitcom,No
+NBC Sunday Night Movie,NBC,21,18.5,1985,Special,No
+NBC Monday Night Movie,NBC,22,18.3,1985,Special,No
+Valerie,NBC,24,18.1,1985,Sitcom,No
+The Facts of Life,NBC,27,17.7,1985,Sitcom,Yes
+The A-Team,NBC,30,16.9,1985,Drama,No
+The Cosby Show,NBC,1,34.9,1986,Sitcom,No
+Family Ties,NBC,2,32.7,1986,Sitcom,No
+Cheers,NBC,3,27.2,1986,Sitcom,No
+The Golden Girls,NBC,5,24.5,1986,Sitcom,No
+Night Court,NBC,7,23.2,1986,Sitcom,No
+Amen,NBC,13,19.4,1986,Sitcom,No
+227,NBC,14,18.9,1986,Sitcom,No
+Matlock,NBC,15,18.6,1986,Drama,No
+NBC Monday Night Movie,NBC,15,18.6,1986,Special,No
+NBC Sunday Night Movie,NBC,20,18.2,1986,Special,No
+L.A. Law,NBC,21,17.4,1986,Drama,No
+My Sister Sam,NBC,21,17.4,1986,Sitcom,No
+Falcon Crest,NBC,23,17.3,1986,Drama,No
+Highway to Heaven,NBC,24,17.2,1986,Drama,No
+Miami Vice,NBC,26,16.8,1986,Drama,No
+ALF,NBC,28,16.5,1986,Sitcom,No
+Hunter,NBC,28,16.5,1986,Drama,No
+The Cosby Show,NBC,1,27.8,1987,Sitcom,No
+A Different World,NBC,2,25,1987,Sitcom,Yes
+Cheers,NBC,3,23.4,1987,Sitcom,No
+The Golden Girls,NBC,4,21.8,1987,Sitcom,No
+Night Court,NBC,7,20.8,1987,Sitcom,No
+ALF,NBC,10,18.8,1987,Sitcom,No
+L.A. Law,NBC,12,18.3,1987,Drama,No
+Matlock,NBC,14,17.8,1987,Drama,No
+Amen,NBC,15,17.5,1987,Sitcom,No
+Family Ties,NBC,17,17.3,1987,Sitcom,No
+In the Heat of the Night,NBC,19,17,1987,Drama,No
+My Two Dads,NBC,20,16.9,1987,Sitcom,No
+Valerie's Family,NBC,20,16.9,1987,Sitcom,Rename
+NBC Sunday Night Movie,NBC,23,16.7,1987,Special,No
+NBC Monday Night Movie,NBC,26,16.4,1987,Special,No
+227,NBC,27,16.3,1987,Sitcom,No
+Day by Day,NBC,28,16.2,1987,Sitcom,No
+Hunter,NBC,29,16.1,1987,Drama,No
+Aaron's Way,NBC,30,16,1987,Drama,No
+The Cosby Show,NBC,1,25.6,1988,Sitcom,No
+A Different World,NBC,3,23,1988,Sitcom,Yes
+Cheers,NBC,4,22.3,1988,Sitcom,No
+The Golden Girls,NBC,6,21.4,1988,Sitcom,No
+Empty Nest,NBC,9,19.2,1988,Sitcom,Yes
+Empty Nest,NBC,9,19.2,1988,Sitcom,Yes
+Dear John,NBC,11,18.5,1988,Sitcom,No
+Matlock,NBC,12,17.7,1988,Drama,No
+L.A. Law,NBC,13,17.6,1988,Drama,No
+Growing Pains,NBC,13,17.6,1988,Sitcom,No
+ALF,NBC,15,17.5,1988,Sitcom,No
+Unsolved Mysteries,NBC,17,17.4,1988,Reality,No
+In the Heat of the Night,NBC,18,17.3,1988,Drama,No
+Hunter,NBC,19,17.2,1988,Drama,No
+Night Court,NBC,21,16.9,1988,Sitcom,No
+The Hogan Family,NBC,22,16.3,1988,Sitcom,Rename
+NBC Sunday Night Movie,NBC,22,16.3,1988,Special,No
+The Wonder Years,NBC,22,16.3,1988,Sitcom,No
+Amen,NBC,25,16.2,1988,Sitcom,No
+NBC Monday Night Movie,NBC,25,16.2,1988,Special,No
+The Cosby Show,NBC,1,23.1,1989,Sitcom,No
+Cheers,NBC,3,22.7,1989,Sitcom,No
+A Different World,NBC,4,21.1,1989,Sitcom,Yes
+The Golden Girls,NBC,6,20.1,1989,Sitcom,No
+Empty Nest,NBC,9,18.9,1989,Sitcom,Yes
+Empty Nest,NBC,9,18.9,1989,Sitcom,Yes
+Unsolved Mysteries,NBC,11,18,1989,Reality,No
+Grand,NBC,15,17.6,1989,Sitcom,No
+L.A. Law,NBC,16,17.4,1989,Drama,No
+Dear John,NBC,17,17.2,1989,Sitcom,No
+In the Heat of the Night,NBC,19,16.9,1989,Drama,No
+Matlock,NBC,20,16.6,1989,Drama,No
+Hunter,NBC,24,14.9,1989,Drama,No
+Night Court,NBC,28,14.5,1989,Sitcom,No
+Cheers,NBC,14,19.2,1984,Sitcom,No
+ABC Monday Movie,ABC,25,13.8,1991,Special,No
+The Jackie Thomas Show,ABC,16,14.6,1992,Sitcom,No
+"Dr. Quinn, Medicine Woman",CBS,25,13.3,1993,Drama,No
+Dateline NBC - Wednesday,NBC,28,11.3,1995,News,No
+3rd Rock from the Sun,NBC,27,10.8,1996,Sitcom,No
+Dateline NBC - Tuesday,NBC,13,11.5,1997,News,No
+Dateline NBC - Monday,NBC,14,11.4,1997,News,No
+20/20 - Friday,ABC,14,9.9,1998,News,No
+Dateline NBC - Monday,NBC,19,9.7,1998,News,No
+CBS Tuesday Movie,CBS,19,9.7,1998,Special,No
+Spin City,ABC,24,9.1,1999,Sitcom,No
