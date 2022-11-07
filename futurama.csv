@@ -1,0 +1,109 @@
+Source,Target,Boost
+Agnu,Nixon,Boss
+Amy,Bender,Ex
+Amy,Fry,Ex
+Amy,Inez Wong,Related
+Amy,Leo Wong,Related
+Amy,Kiff,Together
+Barbados Slim,LaBarbara,Ex
+Barbados Slim,Hermes,Nemesis
+Bender,Fry,Bestie
+Bender,Calculon,Bestie
+Bender,Crushinator,Ex
+Bender,Fanny,Ex
+Bender,Bev,Ex
+Bender,Roberto,Nemesis
+Bender,Robot Devil,Nemesis
+Bender,Donbot,Nemesis
+Bender,Flexo,Related
+Bev,Bender,Ex
+Clamps,Donbot,Boss
+Cubert,Dwight,Bestie
+Cubert,Farnsworth,Related
+Donbot,Clamps,Employee
+Donbot,Bender,Nemesis
+Donbot,Fanny,Together
+Dwight,Cubert,Bestie
+Dwight,Hermes,Related
+Dwight,LaBarbara,Related
+Fanny,Donbot,Together
+Farnsworth,Amy,Employee
+Farnsworth,Hermes,Employee
+Farnsworth,Leela,Employee
+Farnsworth,Mom,Ex
+Farnsworth,Wernstrom,Nemesis
+Farnsworth,Zoidberg,Plot
+Farnsworth,Bender,Plot
+Farnsworth,Cubert,Related
+Farnsworth,Fry,Related
+Flexo,Bender,Related
+Fry,Bender,Bestie
+Fry,Amy,Ex
+Fry,Nibbler,Related
+Fry,Farnsworth,Related
+Fry,Leela,Together
+Fry,Fry's Grandma,Related
+Fry's Grandma,Fry,Ex
+Hermes,Barbados Slim,Nemesis
+Hermes,Zoidberg,Nemesis
+Hermes,Bender,Plot
+Hermes,Dwight,Related
+Hermes,LaBarbara,Together
+Igner,Walt,Related
+Igner,Larry,Related
+Igner,Mom,Related
+Igner,Farnsworth,Related
+Inez Wong,Amy,Related
+Inez Wong,Leo Wong,Together
+Kiff,Zap,Boss
+Kiff,Amy,Together
+LaBarbara,Barbados Slim,Ex
+LaBarbara,Dwight,Related
+LaBarbara,Hermes,Together
+Larry,Walt,Related
+Larry,Igner,Related
+Larry,Mom,Related
+Larry,Wernstrom,Related
+Leela,Nibbler,Bestie
+Leela,Zap,Ex
+Leela,Munda,Related
+Leela,Morris,Related
+Leela,Fry,Together
+Leo Wong,Amy,Related
+Leo Wong,Inez Wong,Together
+Mom,Larry,Related
+Mom,Walt,Related
+Mom,Igner,Related
+Mom,Farnsworth,Ex
+Mom,Wernstrom,Ex
+Morris,Leela,Related
+Munda,Leela,Related
+Munda,Morris,Together
+Nibbler,Leela,Bestie
+Nibbler,Fry,Plot
+Nixon,Zap,Employee
+Nixon,Agnu,Employee
+Roberto,Bender,Nemesis
+Robot Devil,Bender,Nemesis
+Walt,Igner,Related
+Walt,Larry,Related
+Walt,Mom,Related
+Walt,Wernstrom,Related
+Wernstrom,Mom,Ex
+Wernstrom,Farnsworth,Nemesis
+Zap,Nixon,Boss
+Zap,Kiff,Employee
+Zap,Leela,Ex
+Zoidberg,Farnsworth,Bestie
+Robot Devil,Fry,Nemesis
+Zoidberg,Harold Zoid,Related
+Zoidberg,Roberto,Nemesis
+Zoidberg,Marianne,Together
+Hedonismbot,Fry,Employee
+Hedonismbot,Djambi,Employee
+Clamps,Calculon,Nemesis
+Donbot,Calculon,Nemesis
+Calculon,Robot Devil,Related
+Calculon,Boxy,Employee
+Tinny Tim,Bender,Employee
+Tinny Tim,Donbot,Employee
