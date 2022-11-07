@@ -15,25 +15,19 @@ Bender,Bev,Ex
 Bender,Roberto,Nemesis
 Bender,Robot Devil,Nemesis
 Bender,Donbot,Nemesis
-Bender,Flexo,Related
 Bev,Bender,Ex
 Clamps,Donbot,Boss
 Cubert,Dwight,Bestie
-Cubert,Farnsworth,Related
-Donbot,Clamps,Employee
 Donbot,Bender,Nemesis
-Donbot,Fanny,Together
 Dwight,Cubert,Bestie
 Dwight,Hermes,Related
-Dwight,LaBarbara,Related
 Fanny,Donbot,Together
 Farnsworth,Amy,Employee
 Farnsworth,Hermes,Employee
 Farnsworth,Leela,Employee
 Farnsworth,Mom,Ex
 Farnsworth,Wernstrom,Nemesis
-Farnsworth,Zoidberg,Plot
-Farnsworth,Bender,Plot
+Farnsworth,Zoidberg,Employee
 Farnsworth,Cubert,Related
 Farnsworth,Fry,Related
 Flexo,Bender,Related
