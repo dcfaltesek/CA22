@@ -15,11 +15,8 @@ Bender,Bev,Ex
 Bender,Roberto,Nemesis
 Bender,Robot Devil,Nemesis
 Bender,Donbot,Nemesis
-Bev,Bender,Ex
 Clamps,Donbot,Boss
 Cubert,Dwight,Bestie
-Donbot,Bender,Nemesis
-Dwight,Cubert,Bestie
 Dwight,Hermes,Related
 Fanny,Donbot,Together
 Farnsworth,Amy,Employee
@@ -31,10 +28,7 @@ Farnsworth,Zoidberg,Employee
 Farnsworth,Cubert,Related
 Farnsworth,Fry,Related
 Flexo,Bender,Related
-Fry,Bender,Bestie
-Fry,Amy,Ex
 Fry,Nibbler,Related
-Fry,Farnsworth,Related
 Fry,Leela,Together
 Fry,Fry's Grandma,Related
 Fry's Grandma,Fry,Ex
